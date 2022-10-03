@@ -1,0 +1,36 @@
+{
+  "TASKS": "Tasks",
+  "ADD_TASK": "Add Task",
+  "TASK_NAME": "Task Name",
+  "UPDATE": "Update",
+  "ARE_YOU_SURE_YOU_WANT_TO_DELETE_TASK": "Are You Sure You Want To Delete Task ?",
+  "YES": "Yes",
+  "NO": "No",
+  "DELETE": "Delete",
+  "TASK_DELETED": "Task Deleted",
+  "ADD": "Add",
+  "CANCEL": "Cancel",
+  "SAVE": "Save",
+  "TASK_NAME_CAN_NOT_BE_BLANK": "Task Name Cannot Be Blank",
+  "TASK_ADDED": "Task Added",
+  "TASK_UPDATED": "Task Updated"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

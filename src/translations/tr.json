@@ -1,0 +1,42 @@
+{
+    "TASKS": "Görevler",
+    "ADD_TASK": "Görev Ekle",
+    "TASK_NAME": "Görev Adı",
+    "UPDATE": "Güncelle",
+    "ARE_YOU_SURE_YOU_WANT_TO_DELETE_TASK": "Görevi Silmek İstediğine Emin Misin ?",
+    "YES": "Evet",
+    "NO": "Hayır",
+    "DELETE": "Sil",
+    "TASK_DELETED": "Görev Silindi",
+    "ADD": "Ekle",
+    "CANCEL": "Vazgeç",
+    "SAVE": "Kaydet",
+    "TASK_CAN_NOT_BE_BLANK": "Görev Adı Boş Bırakılamaz",
+    "TASK_ADDED": "Görev Eklendi",
+    "TASK_UPDATED": "Görev Güncellendi"
+
+    
+
+
+    
+
+
+
+    
+
+
+
+
+   
+
+
+    
+    
+
+    
+
+    
+
+
+    
+}
